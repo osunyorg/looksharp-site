@@ -1,6 +1,6 @@
 ---
 - title: Twitter
-  target: https://twitter.com/looksharpparis/
+  target: https://twitter.com/looksharpparis
   kind: url
   children: []
 - title: Instagram
@@ -8,7 +8,7 @@
   kind: url
   children: []
 - title: Facebook
-  target: https://www.facebook.com/AgenceLookSharp/
+  target: https://www.facebook.com/AgenceLookSharp
   kind: url
   children: []
 
