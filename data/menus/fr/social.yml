@@ -4,13 +4,16 @@ items:
 - title: Twitter
   target: https://twitter.com/looksharpparis
   kind: url
+  new_tab: true
   children: []
 - title: Instagram
   target: https://www.instagram.com/agencelooksharp/
   kind: url
+  new_tab: true
   children: []
 - title: Facebook
   target: https://www.facebook.com/AgenceLookSharp
   kind: url
+  new_tab: true
   children: []
 
