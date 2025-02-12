@@ -2,6 +2,11 @@
 
 baseURL: 
 
+## OSUNY
+osuny:
+  website:
+    id: aced486a-6224-4c97-89c0-9737508a5663
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
